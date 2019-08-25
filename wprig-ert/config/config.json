@@ -1,0 +1,15 @@
+{
+  "theme": {
+    "slug": "tcc-dev",
+    "name": "Thee Cowboy Code - Dev",
+    "author": "Carla Chalmers"
+  },
+  "dev": {
+    "browserSync": {
+      "live": true,
+      "proxyURL": "wprig.test",
+      "bypassPort": "8181",
+      "https": true
+    }
+  }
+}
